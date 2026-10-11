@@ -25,6 +25,7 @@ this is a list of all tiktok ai slop all in one moderatino bots. that popped up 
 + [Moderivo](https://www.tiktok.com/@moderivo)
 + [Nexora](https://www.tiktok.com/@satisfying_video31)
 + [Neyro](https://www.tiktok.com/@botneyro)
++ [piano](https://www.tiktok.com/@master.pianoo) (appareantly sells the bot?)
 + [protector](https://www.tiktok.com/@protectorbot)
 + [ticketforge](https://www.tiktok.com/@ticketforge)
 + [ultiz](https://www.tiktok.com/@ultiz.gg)
