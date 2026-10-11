@@ -10,13 +10,13 @@ this is a list of all tiktok ai slop all in one moderatino bots. that popped up 
 + [Blackshield](https://www.tiktok.com/@blackshield.dev) | Web | [Discord](https://discord.gg/blackshield)
 + [bottu](https://www.tiktok.com/@bottu_discord) | [Web](https://www.bottu.app/) | Discord  (very sketchy asks you to download something)
 + [Cloudtix](https://www.tiktok.com/@cloudtix_official) | [Web](https://cloudtix.up.railway.app/) | [Discord](https://discord.com/invite/2KHBB4v5XR)
-+ [community hub](https://www.tiktok.com/@community_hub_discord) | Web | Discord
-+ [Discrofy](https://www.tiktok.com/@discrofy) | Web | Discord
++ [community hub](https://www.tiktok.com/@community_hub_discord) | [Web](https://communityhub-discord.com/) | [Discord](https://discord.gg/s3cZ5DewGs)
++ [Discrofy](https://www.tiktok.com/@discrofy) | [Web](https://discrofy.com/) | Discord
 + (Elaris)  | Web | Discord  no link
-+ [Ethvex](https://www.tiktok.com/@ethvexbot) | Web | Discord
++ [Ethvex](https://www.tiktok.com/@ethvexbot) | [Web](https://ethvex.xyz/) | [Discord](https://discord.com/invite/TX4MRCVCrm)
 + [ghostlabs](https://www.tiktok.com/@ghostlabs.de) | Web | Discord
-+ [Guildforge](https://www.tiktok.com/@guildforge2) | Web | Discord
-+ [hivecode](https://x.com/Hivecode_bot) | Web | Discord
++ [Guildforge](https://www.tiktok.com/@guildforge2) | [Web](https://guildforgestudio.github.io/) | [Discord](https://discord.com/invite/nwk7st9PBb)
++ [hivecode](https://x.com/Hivecode_bot) | [Web](https://hive-code.dev/) | [Discord](https://discord.com/invite/SrrMMjHZd2)
 + [Ironshieldbot](https://www.tiktok.com/@ironshieldbot.discord) | Web | Discord
 + [JGL bots](https://www.tiktok.com/@jgl_bots) | Web | Discord
 + [Kaivor](https://www.tiktok.com/@kaivorbot) | Web | Discord
