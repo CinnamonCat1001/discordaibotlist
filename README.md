@@ -30,3 +30,4 @@ this is a list of all tiktok ai slop all in one moderatino bots. that popped up 
 + https://vm.tiktok.com/ZN8B6v7Tp/ (Blackshield)
 + https://vm.tiktok.com/ZN8B69rhD/ (ghostlabs)
 + https://www.tiktok.com/@ultiz.gg/video/7685813145625005334 (ultiz)
++ https://vm.tiktok.com/ZN8B5EJsn/ (krown)
