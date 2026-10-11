@@ -5,14 +5,14 @@ this is a list of all tiktok ai slop all in one moderatino bots. that popped up 
 
 + [airbot](https://www.tiktok.com/@air._bot) | [Web](https://www.airbot.sbs/) | [Discord](https://discord.com/invite/airstudios)
 + [Ai ticket bot](https://www.tiktok.com/@ai.ticket.bot) | [Web](https://aiticketbot.com/) | [Discord](https://discord.com/invite/PKUJXQ4g57)
-+ [Alaska](https://www.tiktok.com/@alaskanextcord)  | [Web](http://alaska-discord.xyz/) | Discord  !!!Scam Website According to Google
-+ [alphacloud](https://www.tiktok.com/@alphacloud.pro) | Web | Discord
-+ [Blackshield](https://www.tiktok.com/@blackshield.dev) | Web | Discord
-+ [bottu](https://www.tiktok.com/@bottu_discord) | Web | Discord
-+ [Cloudtix](https://www.tiktok.com/@cloudtix_official) | Web | Discord
++ [Alaska](https://www.tiktok.com/@alaskanextcord)  | [Web](http://alaska-discord.xyz/) | (Discord  !!!Scam Website According to Google)
++ [alphacloud](https://www.tiktok.com/@alphacloud.pro) | [Web](https://alphacloud.pro/) | [Discord](https://discord.com/invite/M4Q9adg7SG)
++ [Blackshield](https://www.tiktok.com/@blackshield.dev) | Web | [Discord](https://discord.gg/blackshield)
++ [bottu](https://www.tiktok.com/@bottu_discord) | [Web](https://www.bottu.app/) | Discord  (very sketchy asks you to download something)
++ [Cloudtix](https://www.tiktok.com/@cloudtix_official) | [Web](https://cloudtix.up.railway.app/) | [Discord](https://discord.com/invite/2KHBB4v5XR)
 + [community hub](https://www.tiktok.com/@community_hub_discord) | Web | Discord
 + [Discrofy](https://www.tiktok.com/@discrofy) | Web | Discord
-+ (Elaris)  | no link Web | Discord
++ (Elaris)  | Web | Discord  no link
 + [Ethvex](https://www.tiktok.com/@ethvexbot) | Web | Discord
 + [ghostlabs](https://www.tiktok.com/@ghostlabs.de) | Web | Discord
 + [Guildforge](https://www.tiktok.com/@guildforge2) | Web | Discord
@@ -27,7 +27,7 @@ this is a list of all tiktok ai slop all in one moderatino bots. that popped up 
 + [Moderivo](https://www.tiktok.com/@moderivo) | Web | Discord
 + [Nexora](https://www.tiktok.com/@satisfying_video31) | Web | Discord
 + [Neyro](https://www.tiktok.com/@botneyro) | Web | Discord
-+ [piano](https://www.tiktok.com/@master.pianoo) |(appareantly sells the bot?) Web | Discord
++ [piano](https://www.tiktok.com/@master.pianoo) | Web | Discord  (appareantly sells the bot?) 
 + [protector](https://www.tiktok.com/@protectorbot) | Web | Discord
 + [ticketforge](https://www.tiktok.com/@ticketforge) | Web | Discord
 + [ultiz](https://www.tiktok.com/@ultiz.gg) | Web | Discord
