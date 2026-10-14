@@ -22,12 +22,7 @@ def label(url, text):
 def row(b):
     name = b["name"]
     tiktok = b.get("tiktok")
-    if tiktok and "tiktok.com" in tiktok:
-        left = f"[{name}]({tiktok})"
-    elif tiktok:
-        left = f"[{name}]({tiktok})"  # ponytail: promo link (e.g. x.com) kept as-is until TikTok handle known
-    else:
-        left = f"({name})"
+    left = f"[{name}]({tiktok})" if tiktok else f"({name})"
     parts = [left, label(b.get("web"), "Web"), label(b.get("discord"), "Discord")]
     line = "+ " + " | ".join(parts)
     if b.get("notes"):

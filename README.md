@@ -16,14 +16,14 @@ this is a list of all tiktok ai slop all in one moderatino bots. that popped up 
 + [Ethvex](https://www.tiktok.com/@ethvexbot) | [Web](https://ethvex.xyz/) | [Discord](https://discord.com/invite/TX4MRCVCrm)
 + [ghostlabs](https://www.tiktok.com/@ghostlabs.de) | Web | Discord
 + [Guildforge](https://www.tiktok.com/@guildforge2) | [Web](https://guildforgestudio.github.io/) | [Discord](https://discord.com/invite/nwk7st9PBb)
-+ [hivecode](https://x.com/Hivecode_bot) | [Web](https://hive-code.dev/) | [Discord](https://discord.com/invite/SrrMMjHZd2)
++ (hivecode) | [Web](https://hive-code.dev/) | [Discord](https://discord.com/invite/SrrMMjHZd2)
 + [Ironshieldbot](https://www.tiktok.com/@ironshieldbot.discord) | Web | [Discord](https://disc.gg/Ironshield) (no official website found; app directory: https://discord.com/discovery/applications/1479835689284669461)
 + [JGL bots](https://www.tiktok.com/@jgl_bots) | [Web](https://jgltechnologies.com/jgl-bot) | Discord (support server behind JS redirect: https://jgltechnologies.com/discord)
 + [Kaivor](https://www.tiktok.com/@kaivorbot) | [Web](https://kaivor.space/) | [Discord](https://discord.gg/kaivor)
 + [krown](https://www.tiktok.com/@krown_on_discord) | Web | Discord
 + [Leyno](https://www.tiktok.com/@leyno.bot) | Web | [Discord](https://discord.com/discovery/applications/1257004956658172065) (app directory only, no static invite found)
 + [lio.gg](https://www.tiktok.com/@lio.bot) | [Web](https://lio.gg/) | [Discord](https://discord.gg/Q6wZzvFKen)
-+ [lumo](https://x.com/xMichealRx/status/2109408888923529346) | Web | Discord (promo post deleted (404); lumobot.xyz / lumobot.org namesakes unverified)
++ (lumo) | Web | Discord (promo post deleted (404); lumobot.xyz / lumobot.org namesakes unverified)
 + [Moderivo](https://www.tiktok.com/@moderivo) | Web | Discord
 + [Nexora](https://www.tiktok.com/@satisfying_video31) | [Web](https://nexorabot.org/) | [Discord](https://discord.gg/TJQ5wbeSms)
 + [Neyro](https://www.tiktok.com/@botneyro) | [Web](https://neyrogen.online/) | [Discord](https://discord.gg/aAkWjaHf4u) (attribution to neyrogen.online unverified; OAuth: https://discord.com/api/oauth2/authorize?client_id=1128420547953430758&permissions=277025769536&scope=bot)
